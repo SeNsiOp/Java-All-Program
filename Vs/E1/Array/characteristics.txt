@@ -1,0 +1,7 @@
+1. It is used to store multiple values
+2. It is homogenious in nature - (elements of same type)
+3. Size of the array is fixed
+4. Array is the fastest datastructure for inserting data
+    and acccessing data using index. 
+        inserting an element = O(1)
+        accessing element = O(1)

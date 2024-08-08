@@ -1,0 +1,3 @@
+class FibonacciNumber
+{
+public static int Fibonacci(int n){

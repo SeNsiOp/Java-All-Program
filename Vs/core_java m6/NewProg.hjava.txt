@@ -1,0 +1,12 @@
+class NewProg
+{
+int a;
+
+public void print(){
+	a= 5;
+}
+
+public static void main(String[] args){
+Systen.out.println(a);
+}
+}
